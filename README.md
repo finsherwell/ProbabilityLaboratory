@@ -53,5 +53,5 @@ This repository is designed to complement traditional textbooks and courses by t
 
 ### References and Inspiration
 
-David Morin - Probability: For the Enthusiastic Beginner
-John Hopkins University (Coursera): Advanced Probability and Statistical Methods
+**David Morin: Probability** - For the Enthusiastic Beginner<br>
+**John Hopkins University: (Coursera)**- Advanced Probability and Statistical Methods
